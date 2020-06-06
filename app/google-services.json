@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "547622202811",
+    "firebase_url": "https://mocklist-7d811.firebaseio.com",
+    "project_id": "mocklist-7d811",
+    "storage_bucket": "mocklist-7d811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547622202811:android:840a1540f75dd833ffa89e",
+        "android_client_info": {
+          "package_name": "com.mocktest.listpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547622202811-jhaif2vko1fnvvjgr9lqkjr5l54k2m4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUcTC88ojika5DWF49Du662rTzHguBF2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547622202811-jhaif2vko1fnvvjgr9lqkjr5l54k2m4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
